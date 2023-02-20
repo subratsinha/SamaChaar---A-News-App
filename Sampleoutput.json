@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 37,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Turkey earthquake: Heavy rain hampers rescue efforts - BBC",
+            "description": "More than 4,800 people are confirmed dead in the quake that struck northern Syria and Turkey.",
+            "url": "https://www.bbc.com/news/world-europe-64548985",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/11A48/production/_128546227_womenre.jpg",
+            "publishedAt": "2023-02-07T07:46:03Z",
+            "content": "Media caption, Turkey and Syria earthquake: Drone footage shows Turkey earthquake aftermath\r\nRescuers are battling heavy rain and snow as they race against the clock to find survivors of a devastatin… [+4993 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Sam Meredith",
+            "title": "BP posts record 2022 earnings to join Big Oil profit bonanza - CNBC",
+            "description": "Oil major BP's record annual profits follow bumper earnings from energy giants Shell, Exxon Mobil and Chevron.",
+            "url": "https://www.cnbc.com/2023/02/07/bp-earnings-q4-and-fy-2022.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107096736-1659361004697-gettyimages-1241067951-VC_20220526_03.jpeg?v=1675753743&w=1920&h=1080",
+            "publishedAt": "2023-02-07T07:09:03Z",
+            "content": "Oil major BP on Tuesday reported record annual profits, more than doubling last year's total as fossil fuel prices soared following Russia's full-scale invasion of Ukraine.\r\nThe British energy giant … [+4779 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Derailed train cars in Ohio drained of toxic chemical amid mass evacuation - Reuters",
+            "description": "Nearly 2,000 residents of eastern Ohio remained under evacuation orders on Monday as railroad crews drained and burned off a toxic chemical from five tanker cars of a freight train that <a href=\"/world/us/train-derailment-causes-massive-fire-ohio-local-media-…",
+            "url": "https://www.reuters.com/world/us/ohio-carry-out-controlled-release-chemicals-train-derailment-site-2023-02-06/",
+            "urlToImage": "https://www.reuters.com/resizer/vNqx-z6bTrO7LucFVxa3F4sf-tY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/7RR732VBRBN2TBUTYHSTC7DUXU.jpg",
+            "publishedAt": "2023-02-07T06:04:00Z",
+            "content": "Feb 6 (Reuters) - Nearly 2,000 residents of eastern Ohio remained under evacuation orders on Monday as railroad crews drained and burned off a toxic chemical from five tanker cars of a freight train … [+3559 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Variety"
+            },
+            "author": "J. Kim Murphy",
+            "title": "‘Ant-Man and the Wasp: Quantumania’ First Reactions Highlight Jonathan Majors’ ‘Incredible’ and ‘Badass’ Kang the Conqueror - Variety",
+            "description": "The Marvel Cinematic Universe kicks off its next series of entries, dubbed Phase Five, with the upcoming Feb. 17 release of “Ant-Man and the Wasp: Quantumania.” It’s curtains for …",
+            "url": "https://variety.com/2023/film/news/ant-man-and-the-wasp-quantumania-first-reactions-jonathan-majors-1235514409/",
+            "urlToImage": "https://variety.com/wp-content/uploads/2023/02/Screen-Shot-2023-02-06-at-12.37.08-PM.png?w=1000&h=563&crop=1",
+            "publishedAt": "2023-02-07T06:02:00Z",
+            "content": "The Marvel Cinematic Universe kicks off its next series of entries, dubbed Phase Five, with the upcoming Feb. 17 release of “Ant-Man and the Wasp: Quantumania.” It’s curtains for the film’s Monday ev… [+4476 chars]"
+        },
+        {
+            "source": {
+                "id": "independent",
+                "name": "Independent"
+            },
+            "author": "Alex Woodward",
+            "title": "George Santos – news: Republican’s office vandalised as congressman’s latest lies revealed - The Independent",
+            "description": "Follow for updates on the latest lies and scandals swirling round the Republican congressman",
+            "url": "https://www.independent.co.uk/news/world/americas/us-politics/george-santos-lies-real-name-sexual-harassment-spider-man-musical-b2277069.html",
+            "urlToImage": "https://static.independent.co.uk/2023/01/21/04/10401865.jpg?quality=75&width=1200&auto=webp",
+            "publishedAt": "2023-02-07T05:55:00Z",
+            "content": "George Santos faces backlash on Twitter for weighing into Ilhan Omar vote after lies about 'Jew-ish' heritage\r\nGeorge Santos is facing backlash on Twitter for weighing in on the vote ousting Ilhan Om… [+1386 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Eliza Ronalds-Hannon and Jeannette Neumann",
+            "title": "Bed Bath & Beyond Plans Share Sale in Bid to Avoid Bankruptcy - Yahoo Finance",
+            "description": "(Bloomberg) -- Bed Bath & Beyond Inc. has lined up investors for an eleventh-hour cash infusion that would allow it to stave off a bankruptcy filing...",
+            "url": "https://finance.yahoo.com/news/bed-bath-beyond-plans-share-220242769.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/9QzJ_2FqBYwKs0e49vFR5w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDE-/https://media.zenfs.com/en/bloomberg_markets_842/8e31830849cdb21b30cb68b85aabda8b",
+            "publishedAt": "2023-02-07T05:11:00Z",
+            "content": "(Bloomberg) -- Bed Bath &amp; Beyond Inc. has lined up investors for an eleventh-hour cash infusion that would allow it to stave off a bankruptcy filing, according to people with knowledge of the mat… [+4287 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Erik Kain",
+            "title": "Here’s The Exact Time ‘Hogwarts Legacy’ Early Access Begins On PS5, Xbox Series X And PC - Forbes",
+            "description": "Here's when you can start playing Hogwarts Legacy early if you pre-ordered the Collector's Edition or the Digital Deluxe Edition.",
+            "url": "https://www.forbes.com/sites/erikkain/2023/02/07/heres-the-exact-time-hogwarts-legacy-early-access-begins-on-ps5-xbox-series-x-and-pc/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/63ddbb4d19d9f74be1414400/0x0.jpg?format=jpg&width=1200",
+            "publishedAt": "2023-02-07T05:08:00Z",
+            "content": "Hogwarts Legacy\r\nCredit: Warner Bros\r\nPost updated at 1:30am 2/6/2023. See update below.\r\nThe most highly-anticipated game of 2023 (so far) is almost upon us. Hogwarts Legacy, despite being enmeshed … [+8033 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Katie Hunt",
+            "title": "Neanderthals had a taste for a seafood delicacy that's still popular today - CNN",
+            "description": "Neanderthals living 90,000 years ago in a seafront cave, in what's now Portugal, regularly caught crabs, roasted them on coals and ate the cooked flesh, according to a new study.",
+            "url": "https://www.cnn.com/2023/02/07/world/neanderthal-diet-crabs-scn/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230206144059-neanderthal-diet-research-crab-remains-scn.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-02-07T05:01:00Z",
+            "content": "Sign up for CNNs Wonder Theory science newsletter. Explore the universe with news on fascinating discoveries, scientific advancements and more.\r\nNeanderthals living 90,000 years ago in a seafront cav… [+3202 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Dan Wetzel",
+            "title": "Super Bowl 2023: Nick Sirianni's brash, confident persona is a long way from his bumpy start as Eagles coach - Yahoo Sports",
+            "description": "Two years after Sirianni stumbled over his words at his introductory news conference, the Eagles coach is mugging the camera and speaking confidently to...",
+            "url": "https://sports.yahoo.com/super-bowl-2023-nick-siriannis-brash-confident-persona-is-a-long-way-from-his-bumpy-start-as-eagles-coach-044343584.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/TlInOcI3DbMkwrRYhziLEw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-01/e35ec350-a6a0-11ed-bfdf-17d00d1137fe",
+            "publishedAt": "2023-02-07T04:43:00Z",
+            "content": "PHOENIX For about an hour on Monday night, Nick Sirianni sat behind a Super Bowl Opening Night podium and answered questions.\r\nThey came in rapid fire, from local Philly TV morning anchors and report… [+5048 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Ava-joye Burnett",
+            "title": "'It would lay this city to waste:' Catonsville woman conspired with neo-Nazi leader to destroy Baltimore power grid, FBI says - CBS News",
+            "description": "The FBI said it views the suspects as \"racially or ethnically motivated extremists.\"",
+            "url": "https://www.cbsnews.com/baltimore/news/baltimore-power-grid-shooting-substations-sarah-clendaniel-fbi-charged/",
+            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/02/06/a8299d8e-0514-4b96-80f8-5c492d6037e2/thumbnail/1200x630/d4d9c726b7bcc1d12ae6c972f46b2009/vlcsnap-2023-02-06-17h41m50s484.png",
+            "publishedAt": "2023-02-07T04:40:00Z",
+            "content": "BALTIMORE -- A Catonsville woman and a Florida man with neo-Nazi ties have been arrested and charged with conspiring to attack Baltimore's power grid, the FBI and local officials announced Monday. \r\n… [+4717 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Arrowhead Pride"
+            },
+            "author": "John Dixon",
+            "title": "Chiefs appear at Super Bowl LVII Opening Night - Arrowhead Pride",
+            "description": "We’re keeping you up to date with what’s happening as Kansas City meets with the press in Phoenix.",
+            "url": "https://www.arrowheadpride.com/2023/2/6/23588706/chiefs-appear-at-super-bowl-lvii-opening-night",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/5FeFHtuWW5Zr0SgtskD1sTebipc=/465x698:4808x2972/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24414603/1463628712.jpg",
+            "publishedAt": "2023-02-07T04:13:56Z",
+            "content": "© 2023 Vox Media, LLC. All Rights Reserved\r\n* 21+ (19+ CA-ONT) (18+ NH/WY). AZ, CO, CT, IL, IN, IA, KS, LA, (select parishes), MD, MI, NH, NJ, NY, OH, OR, PA, TN, VA, WV, WY, CA-ONT only.Eligibility … [+128 chars]"
+        },
+        {
+            "source": {
+                "id": "entertainment-weekly",
+                "name": "Entertainment Weekly"
+            },
+            "author": "Lester Fabian Brathwaite",
+            "title": "Mila Kunis thinks Reese Witherspoon and Ashton Kutcher have 'awkward' red carpet chemistry - Entertainment Weekly News",
+            "description": "Your cringe or mine.",
+            "url": "https://ew.com/movies/mila-kunis-reese-witherspoon-ashton-kutcher-awkward-red-carpet-chemistry/",
+            "urlToImage": "https://imagesvc.meredithcorp.io/v3/mm/image?q=60&c=sc&poi=%5B920%2C399%5D&w=2000&h=1000&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F6%2F2023%2F02%2F07%2FReese-Witherspoon-and-Ashton-Kutcher-awkward-01-020623.jpg",
+            "publishedAt": "2023-02-07T04:11:00Z",
+            "content": "Not everyone can pull off that Oscar Isaac-Jessica Chastain red carpet worm chemistry. Which is probably for the best, 'cause get a room, kids.\r\nBut on the other side of the spectrum, there's Reese W… [+1178 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SciTechDaily"
+            },
+            "author": null,
+            "title": "Groundbreaking Discovery of Hidden Molten Rock Layer Under Earth's Tectonic Plates - SciTechDaily",
+            "description": "Scientists have discovered a new layer of partly molten rock under the Earth’s crust that might help settle a long-standing debate about how tectonic plates move. Researchers had previously identified patches of melt at a similar depth. But a new study led by…",
+            "url": "https://scitechdaily.com/groundbreaking-discovery-of-hidden-molten-rock-layer-under-earths-tectonic-plates/",
+            "urlToImage": "https://scitechdaily.com/images/Earths-Upper-Mantle.jpg",
+            "publishedAt": "2023-02-07T03:43:59Z",
+            "content": "ByUniversity of Texas at AustinFebruary 6, 2023\r\nThe Earth with the upper mantle revealed. Researchers at The University of Texas at Austin have discovered a previously unknown layer of partly molten… [+4566 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Rolling Stone"
+            },
+            "author": "Charisma Madarang",
+            "title": "Harry Styles Grammys Dancers Say Set Malfunction Forced Them to ‘Reverse’ Performance Live - Rolling Stone",
+            "description": "“In real time, we had to troubleshoot and try to do a complete piece in reverse,” said Styles’ backup dancer",
+            "url": "https://www.rollingstone.com/music/music-news/harry-styles-grammys-dancers-set-malfunction-reverse-performance-1234675151/",
+            "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2023/02/Harry-Styles-Grammy-Dancers-Performance.jpg?w=1600&h=900&crop=1",
+            "publishedAt": "2023-02-07T03:33:16Z",
+            "content": "Harry Styles’ dancers during the 2023 Grammy Awards took to social media on Monday to reveal that while on live television the turntable they practiced on malfunctioned and began to spin in the wrong… [+1779 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Michelle Toh",
+            "title": "Chinese search engine giant Baidu announces ChatGPT-style AI bot - CNN",
+            "description": "Chinese search engine giant Baidu says it will be launching its own ChatGPT-style service.",
+            "url": "https://www.cnn.com/2023/02/06/tech/china-baidu-ai-bot-chatgpt-rival-intl-hnk/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230206181105-baidu-logo-file.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-02-07T03:25:00Z",
+            "content": "Chinese search engine giant Baidu says it will be launching its own ChatGPT-style service.\r\nIt will launch a new artificial intelligence chatbot called Wenxin Yiyan in Chinese, or Ernie Bot in Englis… [+1836 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Fox Business"
+            },
+            "author": "Paul Best",
+            "title": "SpaceX launches 9,000-pound satellite into orbit from Florida - Fox Business",
+            "description": "SpaceX used their Falcon 9 rocket to launch a 9,000-pound satellite into orbit on Monday evening from Cape Canaveral Space Force Station in Florida.",
+            "url": "https://www.foxbusiness.com/technology/spacex-launches-9000-pound-satellite-orbit-florida",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2022/04/0/0/SpaceX-Falcon-9-Rocket.jpg?ve=1&tl=1",
+            "publishedAt": "2023-02-07T02:15:29Z",
+            "content": "A SpaceX Falcon 9 rocket successfully launched a 9,000-pound satellite into orbit on Monday evening from Cape Canaveral Space Force Station in Florida.\r\nThe reusable rocket's first stage landed back … [+1241 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Zachary Cohen",
+            "title": "Exclusive: US intel assessment documents Chinese spy balloon incident under Trump - CNN",
+            "description": "A US military intelligence report from last year that focused on China's use of high-altitude balloons mentioned sightings in Hawaii and Florida during the Trump presidency, according to an excerpt of the report reviewed by CNN.",
+            "url": "https://www.cnn.com/2023/02/06/politics/military-intelligence-report-china-balloon-trump/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220808101326-donald-trump-0806.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-02-07T02:15:00Z",
+            "content": "A US military intelligence report from last year that focused on Chinas use of high-altitude balloons mentioned sightings in Hawaii and Florida during the Trump presidency, according to an excerpt of… [+3410 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Scott Thompson",
+            "title": "Broncos' Sean Payton bans personal coaches from locker room, including star QBs: 'That's foreign to me' - Fox News",
+            "description": "Sean Payton's introduction as the Denver Broncos' new head coach has already brought change, as he said no personal coaches will be allowed on the premises, including Russell Wilson's.",
+            "url": "https://www.foxnews.com/sports/broncos-sean-payton-bans-personal-coaches-locker-room-including-star-qbs-foreign",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/02/sean-payton.jpg",
+            "publishedAt": "2023-02-07T01:44:00Z",
+            "content": "New Denver Broncos head coach Sean Payton is already making some changes in the organization. \r\nThe Broncos introduced Payton on Monday, which meant fielding questions from the various Denver and nat… [+3421 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "JAMIE STENGLE",
+            "title": "Texas attorney shot by Cheney during 2006 hunting trip dies - Yahoo News",
+            "description": "Harry Whittington, the man who former Vice President Dick Cheney accidentally shot while they were hunting quail on a Texas ranch 17 years ago, has died...",
+            "url": "https://news.yahoo.com/texas-attorney-shot-cheney-during-010850830.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/bGvScNOA8fb_9Gej8F7lUQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04Njc-/https://media.zenfs.com/en/ap.org/fb10192a77f02fe9124126b39748f02c",
+            "publishedAt": "2023-02-07T01:08:00Z",
+            "content": "Harry Whittington, the man who former Vice President Dick Cheney accidentally shot while they were hunting quail on a Texas ranch 17 years ago, has died. He was 95.\r\nWhittington died at his home Satu… [+3980 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Nintendo Life"
+            },
+            "author": "Liam Doolan",
+            "title": "Random: YouTuber Recreates Classic Zelda In Minecraft With \"No Mods\" - Nintendo Life",
+            "description": "Taking Minecraft to the next level",
+            "url": "https://www.nintendolife.com/news/2023/02/random-youtuber-recreates-classic-zelda-in-minecraft-with-no-mods",
+            "urlToImage": "https://images.nintendolife.com/47f677131bab6/1280x720.jpg",
+            "publishedAt": "2023-02-07T01:00:00Z",
+            "content": "Subscribe to Nintendo Life on YouTube\r\nWe've seen Zelda recreated in Minecraft before, but this latest project by YouTuber C1OUS3R takes it to the next level.\r\nInstead of calling on third-party Minec… [+1348 chars]"
+        }
+    ]
+}
